@@ -1,0 +1,29 @@
+[
+  {
+    "name": "articles-by-lat-lon-without-images",
+    "title": "Articles by lat/lon without Images API",
+    "description": "Get articles by lat/lon without good images.",
+    "keywords": "tools, discoverability, commons, images, maps, api, php",
+    "url": "http://tools.wmflabs.org/articles-by-lat-lon-without-images/index.php?wiki=sv&lat=59.06708056&lon=16.36239722&radius=10000",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/articles-by-lat-lon-without-images-service.git"
+  },
+  {
+    "name": "ajapaik2commons",
+    "title": "Ajapaik2commons",
+    "description": "Import rephotographs from Ajapaik.ee to Commons.",
+    "keywords": "tools, import, commons, ajapaik, api, javascript",
+    "url": "http://tools.wmflabs.org/ajapaik2commons/",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/ajapaik2commons.git"
+  },
+  {
+    "name": "wmf-sitematrix",
+    "title": "wmf-sitematrix",
+    "description": "Serves static lists of WMF Mediawikis, updated automatically every 15 days.",
+    "keywords": "tools, api, nodejs, cron",
+    "url": "tools.wmflabs.org/wmf-sitematrix/",
+    "author": "Abbe98",
+    "repository": "https://github.com/osmlab/wmf-sitematrix.git"
+  }
+]
