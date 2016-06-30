@@ -25,5 +25,14 @@
     "url": "tools.wmflabs.org/wmf-sitematrix/",
     "author": "Abbe98",
     "repository": "https://github.com/osmlab/wmf-sitematrix.git"
+  },
+  {
+    "name": "warped-to-iframe",
+    "title": "Warped Maps to IFrames",
+    "description": "Service for embedding warped maps externally.",
+    "keywords": "tools, api, php, warped, maps",
+    "url": "https://github.com/wikimaps-dev/warped-to-iframe/",
+    "author": "Abbe98",
+    "repository": "https://github.com/wikimaps-dev/warped-to-iframe.git"
   }
 ]
