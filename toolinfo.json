@@ -22,7 +22,7 @@
     "title": "wmf-sitematrix",
     "description": "Serves static lists of WMF Mediawikis, updated automatically every 15 days.",
     "keywords": "tools, api, nodejs, cron",
-    "url": "tools.wmflabs.org/wmf-sitematrix/",
+    "url": "http://tools.wmflabs.org/wmf-sitematrix/all.json",
     "author": "Abbe98",
     "repository": "https://github.com/osmlab/wmf-sitematrix.git"
   },
