@@ -34,5 +34,23 @@
     "url": "https://github.com/wikimaps-dev/warped-to-iframe/",
     "author": "Abbe98",
     "repository": "https://github.com/wikimaps-dev/warped-to-iframe.git"
+  },
+  {
+    "name": "churches",
+    "title": "Churches API",
+    "description": "API for churches in Sweden, currently combaining Wikidata, Commons, Wikipedia, Kulturarvsdata, etc.",
+    "keywords": "tools, api, heritage, kulturarvsdata, python",
+    "url": "https://github.com/Kyrkosok/api",
+    "author": "Abbe98",
+    "repository": "https://github.com/Kyrkosok/api.git"
+  },
+  {
+    "name": "human-readable-kulturarvsdata",
+    "title": "Human Readable Kulturarvsdata",
+    "description": "Userscript for Wikidata to make all Kulturarvsdata URIs(P1260) link to their human readable source.",
+    "keywords": "userscript, wikidata, heritage, kulturarvsdata",
+    "url": "https://github.com/Abbe98/human-readable-kulturarvsdata",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/human-readable-kulturarvsdata.git"
   }
 ]
