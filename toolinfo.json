@@ -52,5 +52,14 @@
     "url": "https://github.com/Abbe98/human-readable-kulturarvsdata",
     "author": "Abbe98",
     "repository": "https://github.com/Abbe98/human-readable-kulturarvsdata.git"
+  },
+  {
+    "name": "taxon-info",
+    "title": "Taxon-Info",
+    "description": "Display taxon/specie information from Wikidata ID(made for qr-codes in botanical gardens) Proof of concept made for WMNO.",
+    "keywords": "tools, wikidata, specie, php",
+    "url": "https://github.com/Abbe98/taxon-info",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/taxon-info.git"
   }
 ]
