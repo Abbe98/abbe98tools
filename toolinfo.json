@@ -2,8 +2,8 @@
   {
     "name": "articles-by-lat-lon-without-images",
     "title": "Articles by lat/lon without Images API",
-    "description": "Get articles by lat/lon without good images.",
-    "keywords": "tools, discoverability, commons, images, maps, api, php",
+    "description": "Get articles by lat/lon without good images or Wikidata items without any image.",
+    "keywords": "tools, discoverability, commons, images, maps, api, php, wikidata",
     "url": "http://tools.wmflabs.org/articles-by-lat-lon-without-images/index.php?wiki=sv&lat=59.06708056&lon=16.36239722&radius=10000",
     "author": "Abbe98",
     "repository": "https://github.com/Abbe98/articles-by-lat-lon-without-images-service.git"
@@ -61,5 +61,41 @@
     "url": "https://github.com/Abbe98/taxon-info",
     "author": "Abbe98",
     "repository": "https://github.com/Abbe98/taxon-info.git"
+  },
+  {
+    "name": "kyrksok-se",
+    "title": "Kyrksök.se",
+    "description": "Kyrksök.se is a external site/directory for browsing churches in Sweden, linking together Commons, Wikipedia, Wikidata and other datasets.",
+    "keywords": "tools, wikidata, commons, wikipedia, heritage, kulturarvsdata",
+    "url": "http://kyrksok.se/",
+    "author": "Abbe98",
+    "repository": "https://github.com/Kyrkosok/web-client.git"
+  },
+  {
+    "name": "commons-warper-viewer",
+    "title": "Commons Warper Viewer",
+    "description": "Userscript for displaying georefrenced maps directly on Wikimedia Commons.",
+    "keywords": "warped, maps, userscript",
+    "url": "https://github.com/Abbe98/commons-warper-viewer.js",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/commons-warper-viewer.js.git"
+  },
+  {
+    "name": "maps-userscript-boilerplate",
+    "title": "Maps Userscript Boilerplate",
+    "description": "Boilerplate for writing Commons UserScripts that takes advantage from the Warper API.",
+    "keywords": "warped, maps, userscript",
+    "url": "https://github.com/wikimaps-dev/maps-userscript-boilerplate",
+    "author": "Abbe98",
+    "repository": "https://github.com/wikimaps-dev/maps-userscript-boilerplate.git"
+  },
+  {
+    "name": "wikidata-osm-link",
+    "title": "Wikidata to OpenStreetMap Link",
+    "description": "This userscript adds a link to OpenStreetMap from a item page whenever a Wikidata item is referenced in the OSM database.",
+    "keywords": "openstreetmap, osm, maps, userscript",
+    "url": "https://github.com/Abbe98/wikidata-osm-link",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/wikidata-osm-link.git"
   }
 ]
