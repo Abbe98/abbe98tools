@@ -97,5 +97,23 @@
     "url": "https://github.com/Abbe98/wikidata-osm-link",
     "author": "Abbe98",
     "repository": "https://github.com/Abbe98/wikidata-osm-link.git"
+  },
+  {
+    "name": "bbr-commons",
+    "title": "Bebyggelseregistret Commons",
+    "description": "Userscript for Wikimedia Commons that lets you add additional information to the BBR template without writing wikitext.",
+    "keywords": "heritage, userscript, commons",
+    "url": "https://github.com/Abbe98/bbr-commons",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/bbr-commons.git"
+  },
+  {
+    "name": "ksamsok-rest",
+    "title": "K-Samsök REST API",
+    "description": "K-Samsök JSON REST API to access Swedish heritage data. Used by user-scripts.",
+    "keywords": "heritage, api",
+    "url": "https://github.com/Abbe98/ksamsok-rest",
+    "author": "Abbe98",
+    "repository": "https://github.com/Abbe98/ksamsok-rest.git"
   }
 ]
