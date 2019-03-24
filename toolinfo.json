@@ -9,15 +9,6 @@
     "repository": "https://github.com/Abbe98/articles-by-lat-lon-without-images-service.git"
   },
   {
-    "name": "ajapaik2commons",
-    "title": "Ajapaik2commons",
-    "description": "Import rephotographs from Ajapaik.ee to Commons.",
-    "keywords": "tools, import, commons, ajapaik, api, javascript",
-    "url": "http://tools.wmflabs.org/ajapaik2commons/",
-    "author": "Abbe98",
-    "repository": "https://github.com/Abbe98/ajapaik2commons.git"
-  },
-  {
     "name": "wmf-sitematrix",
     "title": "wmf-sitematrix",
     "description": "Serves static lists of WMF Mediawikis, updated automatically every 15 days.",
